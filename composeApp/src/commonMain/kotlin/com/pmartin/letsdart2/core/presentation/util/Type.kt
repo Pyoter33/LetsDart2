@@ -40,7 +40,7 @@ fun AppTypography() = Typography().apply {
             body1 = body1.copy(fontFamily = fontFamily),
             body2 = body2.copy(fontFamily = fontFamily),
             button = button.copy(fontFamily = fontFamily),
-            caption = caption.copy(fontFamily = fontFamily),
+            caption = caption.copy(fontFamily = fontFamily, color = LightGrey),
             overline = overline.copy(fontFamily = fontFamily)
         )
     }

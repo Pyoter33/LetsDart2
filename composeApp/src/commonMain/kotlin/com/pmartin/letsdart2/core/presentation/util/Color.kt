@@ -14,3 +14,8 @@ val Green = Color(0xFF0FDA00)
 val Red = Color(0xFFFF0000)
 val Grey = Color(0xFF49454F)
 val LightGrey = Color(0xFF8F8F8F)
+
+val LightOrange = Color(0xFFFAC8A6)
+val LightGreen = Color(0xFFADE2AA)
+
+val HALF_TRANSPARENT = 0.5f
